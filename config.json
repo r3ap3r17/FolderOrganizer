@@ -1,0 +1,31 @@
+{
+  "config": {
+    "folderReference": {
+      "Images": "imageExtensions",
+      "Videos": "videoExtensions",
+      "Audio": "audioExtensions",
+      "Documents": "documentExtensions"
+    },
+    "extensionReference": {
+      "imageExtensions": [
+        "jpeg",
+        "jpg",
+        "png"
+      ],
+      "videoExtensions": [
+        "mp4",
+        "mov"
+      ],
+      "audioExtensions": [
+        "mp3",
+        "wav"
+      ],
+      "documentExtensions": [
+        "txt",
+        "csv",
+        "doc",
+        "pdf"
+      ]
+    }
+  }
+}
